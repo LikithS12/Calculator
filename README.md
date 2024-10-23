@@ -1,2 +1,9 @@
-# Calculator
- A simple command-line calculator that performs addition, subtraction, multiplication, and division. Users can input two numbers and choose the desired operation, with error handling for invalid inputs and division by zero. The program allows continuous calculations until the user decides to exit.
+# Simple Calculator
+
+A straightforward Python calculator that performs basic mathematical operations: addition, subtraction, multiplication, and division.
+
+## Features
+
+- Supports basic arithmetic operations: add, subtract, multiply, and divide.
+- Handles division by zero with an error message.
+- Allows users to perform multiple calculations in one session.
